@@ -1,2 +1,2 @@
 # Arrays
-second Java project, done April 27, 2020
+first ever Java project, done April 27, 2020
